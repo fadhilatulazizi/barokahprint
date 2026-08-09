@@ -106,7 +106,6 @@ Karena itu, sistem tidak cukup hanya menyediakan fungsi "beli produk".
 
 Platform harus mampu menangani alur:
 
-```text
 Customer
    ↓
 Product Discovery
@@ -126,3 +125,181 @@ Order Processing
 Production
    ↓
 Order Completion
+
+# ⭐ Project Highlights
+
+- Full-stack web application
+- E-commerce functionality
+- Digital printing product management
+- Custom product ordering
+- Design file upload
+- Payment integration
+- Order management system
+- Digital invitation platform
+- WhatsApp integration
+- SEO & structured data
+- Responsive web interface
+- Production deployment
+
+## 🗄️ Database Architecture
+
+The application uses a relational database structure to manage:
+
+- Users
+- Products
+- Categories
+- Orders
+- Order Items
+- Transactions
+- Reviews
+- Digital Invitations
+
+# 🔌 API & External Integrations
+
+BarokahPrint integrates several external services to support its business workflow.
+
+### Payment
+
+Used to process online transactions.
+
+### WhatsApp
+
+Used for customer communication and order notifications.
+
+### Cloudflare
+
+Used for domain, DNS and infrastructure protection.
+
+### External APIs
+
+Used to extend platform functionality and automate selected processes.
+
+# 🧠 Technical Decisions
+
+### Why PHP?
+
+PHP was selected because it provides a mature ecosystem for
+server-side web application development and is well suited
+for the infrastructure used by the project.
+
+### Why MySQL?
+
+MySQL was selected as the relational database because the
+application contains structured relationships between
+customers, products, orders and transactions.
+
+### Why Modular Development?
+
+A modular approach makes it easier to add new features without
+rebuilding the entire application.
+
+# 🧪 Testing & Quality
+
+Testing and validation are performed across several areas:
+
+- Form validation
+- Authentication
+- Product workflow
+- Cart functionality
+- Checkout
+- Order processing
+- File upload
+- Payment workflow
+- Responsive interface
+- SEO validation
+- Structured data validation
+
+# 📈 Performance & SEO
+
+The platform was developed with search engine visibility
+and user experience in mind.
+
+Implementation includes:
+
+- Semantic HTML
+- SEO-friendly URLs
+- Meta descriptions
+- Canonical URLs
+- Open Graph
+- JSON-LD
+- Product structured data
+- Sitemap
+- Mobile-friendly interface
+- Performance optimization
+
+## 🖥️ Homepage
+![BarokahPrint Homepage](docs/homepage.png)
+
+# 💡 Lessons Learned
+
+Through this project, I gained practical experience in:
+
+- Designing real-world web applications
+- Managing relational data
+- Building e-commerce workflows
+- Integrating external APIs
+- Handling custom product requirements
+- Managing online transactions
+- Developing digital products
+- Deploying production applications
+- Maintaining and continuously improving a live system
+
+# 🚀 Project Evolution
+
+BarokahPrint started as a web-based printing platform and
+gradually evolved into a broader digital commerce ecosystem.
+
+```text
+Printing Website
+       ↓
+Product Catalog
+       ↓
+E-Commerce
+       ↓
+Online Ordering
+       ↓
+Payment Integration
+       ↓
+Order Management
+       ↓
+Digital Invitation
+       ↓
+Creative Commerce Platform
+
+
+Ini membuat recruiter melihat bahwa Anda bukan hanya membuat website, tetapi **mengembangkan produk secara berkelanjutan**.
+
+---
+
+## 12. 👤 About Me
+
+Di bagian bawah README kita bisa buat lebih profesional:
+
+```markdown
+# 👤 About the Developer
+
+## Fadhilatul Azizi
+
+Full-Stack Developer focused on building practical web
+applications, business systems, e-commerce platforms,
+and digital products.
+
+### Focus
+
+- Full-Stack Development
+- Web Application Development
+- E-Commerce
+- PHP & MySQL
+- JavaScript
+- API Integration
+- Database Design
+- SEO
+- System Development
+- Digital Products
+
+### Connect
+
+- Portfolio
+- GitHub
+- LinkedIn
+- Email
