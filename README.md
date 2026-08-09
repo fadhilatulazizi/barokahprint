@@ -292,8 +292,8 @@ and digital products.
 - Digital Products
 
 ### Connect
-
-- Portfolio
-- GitHub
-- LinkedIn
-- Email
+[Portfolio](htttps://masfadhil.my.id) 
+[GitHub](https://gitHub.com/fadhilatulazizi) 
+[LinkedIn](https://LinkedIn.com/fadhilatulazizi) 
+[Email](malito:contact@masfadhil.my.id) 
+[Facebook](https://www.facebook.com/azizi.fadhilatul) 
