@@ -4,9 +4,9 @@
 
 > Platform undangan digital yang dikembangkan untuk membantu pengguna membuat, mengelola, membagikan, dan memantau undangan pernikahan secara digital melalui satu ekosistem yang terintegrasi.
 
-[![Live Project](https://img.shields.io/badge/Live%20Project-barokahprint.com-2563eb?style=for-the-badge)](https://barokahprint.com/)
-[![Project Status](https://img.shields.io/badge/Status-Ongoing-22c55e?style=for-the-badge)](https://barokahprint.com/)
-[![Year](https://img.shields.io/badge/Year-2026-64748b?style=for-the-badge)](https://barokahprint.com/)
+[![Live Project](https://img.shields.io/badge/Live%20Project-barokahprint.com-2563eb?style=for-the-badge)](https://barokahprint.com/undangan)
+[![Project Status](https://img.shields.io/badge/Status-Ongoing-22c55e?style=for-the-badge)](https://barokahprint.com/undangan)
+[![Year](https://img.shields.io/badge/Year-2026-64748b?style=for-the-badge)](https://barokahprint.com/undangan)
 
 ---
 
