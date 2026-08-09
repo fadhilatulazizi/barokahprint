@@ -266,6 +266,7 @@ Digital Invitation
        ↓
 Creative Commerce Platform
 
+```
 
 Ini membuat recruiter melihat bahwa Anda bukan hanya membuat website, tetapi **mengembangkan produk secara berkelanjutan**.
 
