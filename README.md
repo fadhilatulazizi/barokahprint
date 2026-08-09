@@ -268,15 +268,8 @@ Creative Commerce Platform
 
 ```
 
-Ini membuat recruiter melihat bahwa Anda bukan hanya membuat website, tetapi **mengembangkan produk secara berkelanjutan**.
-
----
-
 ## 12. 👤 About Me
 
-Di bagian bawah README kita bisa buat lebih profesional:
-
-```markdown
 # 👤 About the Developer
 
 ## Fadhilatul Azizi
