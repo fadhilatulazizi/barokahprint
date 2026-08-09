@@ -478,27 +478,25 @@ Setiap undangan memiliki URL khusus.
 Contoh konsep:
 
 ```text
-barokahprint.com/undangan/nama-pasangan
+barokahprint.com/undangan/nama-pasangan; barokahprint.com/nama-pasangan; 
 ```
 
-atau:
-
+atau :
 ```text
-barokahprint.com/undangan/username
+nama-pasangan.doakita.my.id; doakita.my.id/nama-pasangan
 ```
-
 Personalized URL memungkinkan setiap pasangan memiliki halaman undangan sendiri.
 
 ---
 
-# 🌐 Custom Domain
+# 🌐 Custom Domain & Custom Slug
 
 Platform juga dikembangkan dengan dukungan custom domain.
 
 Contoh:
 
 ```text
-namapasangan.com
+namapasangan.com / barokahprint.com/nama-pasangan
 ```
 
 Custom domain memberikan opsi branding yang lebih personal kepada pengguna.
@@ -525,5 +523,5 @@ Platform dapat mencatat aktivitas kunjungan pada halaman undangan.
 
 Data yang dapat digunakan antara lain:
 
-- Total visitors
-- Visitor
+- Total visitors per undangan
+- Visitor per undangan
