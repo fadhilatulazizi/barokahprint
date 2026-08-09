@@ -268,8 +268,6 @@ Creative Commerce Platform
 
 ```
 
-## 12. 👤 About Me
-
 # 👤 About the Developer
 
 ## Fadhilatul Azizi
@@ -291,9 +289,9 @@ and digital products.
 - System Development
 - Digital Products
 
-### Connect
-[Portfolio](htttps://masfadhil.my.id) 
-[GitHub](https://gitHub.com/fadhilatulazizi) 
-[LinkedIn](https://LinkedIn.com/fadhilatulazizi) 
-[Email](malito:contact@masfadhil.my.id) 
-[Facebook](https://www.facebook.com/azizi.fadhilatul) 
+### Connect 
+🔗 [[Portfolio](htttps://masfadhil.my.id)]
+🚀 [[GitHub](https://gitHub.com/fadhilatulazizi)]
+🎯 [[LinkedIn](https://LinkedIn.com/fadhilatulazizi)]
+📧 [[Email](malito:contact@masfadhil.my.id)]
+🌐 [[Facebook](https://www.facebook.com/azizi.fadhilatul)]
